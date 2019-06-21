@@ -1,3 +1,3 @@
-# Nomadcoders Wetube Challenge
+# Job Mentoring Service
 ---
-This repo includes customized contents on Wetube Challnege.
+This is customized contents on Wetube Challnege of Nomadcoders.
