@@ -25,6 +25,7 @@
     "helmet": "^3.18.0",
     "mixin-deep": "^2.0.1",
     "morgan": "^1.9.1",
+    "pug": "^2.0.4",
     "set-value": "^3.0.1"
   },
   "devDependencies": {
