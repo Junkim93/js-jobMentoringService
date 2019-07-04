@@ -10,7 +10,6 @@ import globalRouter from "./routers/globalRouter";
 import routes from "./routes";
 
 const app = express();
-
 app.set("view engine", "pug");
 // view engine을 확장자가 pug인 파일로 바꿔준다.
 app.use(cookieParser());

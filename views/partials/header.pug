@@ -2,8 +2,15 @@ header.header
     .header__column
         i.fas.fa-dungeon
     .header__column
+        form(action=routes.search, method="get")
+            input(type="text", placeholder="Search by term...", name="term")
+    .header__column
         ul
             li
-                a(href=routes.join) Join
+                a(href=routes.join) 모의면접
+            li
+                a(href=routes.login) 포트폴리오
+            li
+                a(href=routes.login) 게시판
             li
                 a(href=routes.login) Log in

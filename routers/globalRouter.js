@@ -17,3 +17,6 @@ globalRouter.get(routes.logout, getLogout);
 globalRouter.get(routes.search, getSearch);
 
 export default globalRouter;
+
+
+
